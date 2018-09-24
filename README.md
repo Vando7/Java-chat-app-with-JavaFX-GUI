@@ -3,3 +3,7 @@ A server-client chat app which can establish a connection between a number of cl
 
 # The client side of the server
 ![alt text](https://i.imgur.com/TswRsGi.png)
+
+- Enter chat server IP.
+- Enter your username.
+- Chat away.
