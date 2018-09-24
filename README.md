@@ -1,4 +1,4 @@
-# Java chat app with a JavaFX GUI.
+## Java chat app with a JavaFX GUI.
 A server-client chat app which can establish a connection between a number of clients thanks to multithreading.
 
 # The client side of the server
