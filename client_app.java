@@ -1,3 +1,9 @@
+/**
+ * Java chat client that connects to a server.
+ * It uses multithreading to process user input to
+ * server and to receive server output.
+ * Written by Ivan Mihaylov
+ */
 package javaFX_client;
 
 import java.io.DataInputStream;
