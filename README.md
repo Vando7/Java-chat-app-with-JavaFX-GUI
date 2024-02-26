@@ -1,6 +1,4 @@
 ### Java chat app with a JavaFX GUI.(Eclipse)
-Warning: this is very scuffed.
-
 
 A server-client chat app which can establish a connection between a number of clients.
 
